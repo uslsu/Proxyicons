@@ -1,0 +1,9 @@
+{
+  "name": "Hodgepodge icons",
+  "description": "@uQn1ko",
+  "icons": [
+    {"name": "AbemaTV", "url": " https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/AbemaTV.png"},
+    {"name": "bilibili", "url": " https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/bilibili.png"},
+    {"name": "JOOX", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/JOOX.png"},
+    {"name": "Max", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/MAX.png"} ]
+}

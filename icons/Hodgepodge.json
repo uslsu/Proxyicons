@@ -33,6 +33,7 @@
     {"name": "Facebook", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Facebook.png"},
     {"name": "Facebook1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Facebook1.png"},
     {"name": "FriDay", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/FriDay.png"},
+    {"name": "GitHub", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/GitHub.png"}
     {"name": "Google", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Google.png"},
     {"name": "GoogleVoice", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/GoogleVoice.png"},
     {"name": "Hulu", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Hulu.png"},
@@ -82,6 +83,5 @@
     {"name": "YouTube1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube1.png"}
     {"name": "Yahoo", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo.png"}
     {"name": "Yahoo1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo1.png"}
-    {"name": "GitHub", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/GitHub.png"}
   ]
 }

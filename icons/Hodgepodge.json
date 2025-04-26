@@ -2,6 +2,13 @@
   "name": "Hodgepodge icons",
   "description": "@uQn1ko",
   "icons": [
+    {"name": "WorldMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/WorldMap.png"},
+    {"name": "ChinaMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/ChinaMap.png"},
+    {"name": "UnitedStatesMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/UnitedStatesMap.png"},
+    {"name": "OceaniaMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/OceaniaMap.png"},
+    {"name": "EuropeMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/EuropeMap.png"},
+    {"name": "AsiaMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/AsiaMap.png"},
+    {"name": "AmericaMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/refs/heads/main/icons/AmericaMap.png"},
     {"name": "AbemaTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/AbemaTV.png"},
     {"name": "Bilibili", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Bilibili.png"},
     {"name": "Deezer", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Deezer.png"},

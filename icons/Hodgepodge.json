@@ -33,7 +33,7 @@
     {"name": "Facebook", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Facebook.png"},
     {"name": "Facebook1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Facebook1.png"},
     {"name": "FriDay", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/FriDay.png"},
-    {"name": "GitHub", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/GitHub.png"}
+    {"name": "GitHub", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/GitHub.png"},
     {"name": "Google", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Google.png"},
     {"name": "GoogleVoice", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/GoogleVoice.png"},
     {"name": "Hulu", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Hulu.png"},
@@ -73,15 +73,15 @@
     {"name": "Tidal", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Tidal.png"},
     {"name": "Twitch", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Twitch.png"},
     {"name": "Viu", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Viu.png"},
-    {"name": "World", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/World.png"}
+    {"name": "World", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/World.png"},
     {"name": "WeTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WeTV.png"},
     {"name": "WeTV1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WeTV1.png"},
     {"name": "Whatsapp", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Whatsapp.png"},
     {"name": "X", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/X.png"},
     {"name": "X1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/X1.png"},
-    {"name": "YouTube", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube.png"}
-    {"name": "YouTube1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube1.png"}
-    {"name": "Yahoo", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo.png"}
+    {"name": "YouTube", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube.png"},
+    {"name": "YouTube1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube1.png"},
+    {"name": "Yahoo", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo.png"},
     {"name": "Yahoo1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo1.png"}
   ]
 }

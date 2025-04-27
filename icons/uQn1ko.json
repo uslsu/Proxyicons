@@ -150,6 +150,7 @@
     {"name": "Wise", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Wise.png"},
     {"name": "Wise1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Wise1.png"},
     {"name": "World", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/World.png"},
+    {"name": "World1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/World1.png"},
     {"name": "WeTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WeTV.png"},
     {"name": "WeTV1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WeTV1.png"},
     {"name": "Whatsapp", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Whatsapp.png"},
@@ -165,6 +166,10 @@
     {"name": "Yahoo", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo.png"},
     {"name": "Yahoo1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo1.png"},
     {"name": "Yahoo2", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo2.png"},
+    {"name": "CN", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/CN.png"},
+    {"name": "CA1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/CA1.png"},
+    {"name": "MY1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/MY1.png"},
+    {"name": "UK1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/UK1.png"},
     {"name": "ZEE5", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/ZEE5.png"}
   ]
 }

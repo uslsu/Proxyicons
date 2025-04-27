@@ -1,5 +1,5 @@
 {
-  "name": "@uQn1ko 图标库",
+  "name": "uQn1ko 图标库",
   "description": "@uQn1ko",
   "icons": [
     {"name": "WorldMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WorldMap.png"},
@@ -52,6 +52,7 @@
     {"name": "KKTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/KKTV.png"},
     {"name": "Line", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Line.png"},
     {"name": "Line1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Line1.png"},
+    {"name": "Line2", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Line2.png"},
     {"name": "KKBOX", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/KKBOX.png"},
     {"name": "Kakao", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Kakao.png"},
     {"name": "LineTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/LineTV.png"},

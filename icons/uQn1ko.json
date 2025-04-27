@@ -3,6 +3,8 @@
   "description": "@uQn1ko",
   "icons": [
     {"name": "uQn1ko", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/uQn1ko.png"},
+    {"name": "uQn1ko1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/uQn1ko1.png"},
+    {"name": "uQn1ko2", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/uQn1ko2.png"},
     {"name": "WorldMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WorldMap.png"},
     {"name": "ChinaMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/ChinaMap.png"},
     {"name": "UnitedStatesMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/UnitedStatesMap.png"},

@@ -2,6 +2,7 @@
   "name": "uQn1ko 图标库",
   "description": "@uQn1ko",
   "icons": [
+    {"name": "uQn1ko", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/uQn1ko.png"},
     {"name": "WorldMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/WorldMap.png"},
     {"name": "ChinaMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/ChinaMap.png"},
     {"name": "UnitedStatesMap", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/UnitedStatesMap.png"},
@@ -12,6 +13,7 @@
     {"name": "Ad", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Ad.png"},
     {"name": "AdBlack", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/AdBlack.png"},
     {"name": "Advertising", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Advertising.png"},
+    {"name": "AI1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/AI1.png"},
     {"name": "AbemaTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/AbemaTV.png"},
     {"name": "AbemaTV1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/AbemaTV1.png"},
     {"name": "Bahamut", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Bahamut.png"},
@@ -49,6 +51,7 @@
     {"name": "Hulu1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Hulu1.png"},
     {"name": "Instagram", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Instagram.png"},
     {"name": "JOOX", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/JOOX.png"},
+    {"name": "JOOX1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/JOOX1.png"},
     {"name": "KKTV", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/KKTV.png"},
     {"name": "Line", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Line.png"},
     {"name": "Line1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Line1.png"},
@@ -98,9 +101,13 @@
     {"name": "Whatsapp1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Whatsapp1.png"},
     {"name": "X", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/X.png"},
     {"name": "X1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/X1.png"},
+    {"name": "X2", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/X2.png"},
     {"name": "YouTube", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube.png"},
     {"name": "YouTube1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube1.png"},
+    {"name": "YouTube2", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube2.png"},
+    {"name": "YouTube3", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/YouTube3.png"},
     {"name": "Yahoo", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo.png"},
-    {"name": "Yahoo1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo1.png"}
+    {"name": "Yahoo1", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo1.png"},
+    {"name": "Yahoo2", "url": "https://raw.githubusercontent.com/uslsu/Proxyicons/main/icons/Yahoo2.png"}
   ]
 }
